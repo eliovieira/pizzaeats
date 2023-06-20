@@ -1,5 +1,7 @@
 <div align="center">
 
+![Alt text](public/favicon.ico)
+
 ![Alt text](pizzaeats-preview.png)
 
 <h3>Technologies</h3>
